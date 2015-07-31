@@ -1,4 +1,7 @@
 ## ChangeLog
+#### Version 0.7.0 (31.07.2015)
+- Add location to iOS's plist
+
 #### Version 0.6.4 (03.03.2015)
 - Resolve possibly dependency conflict
 
